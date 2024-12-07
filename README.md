@@ -3,7 +3,7 @@
   <br />
   An Chat App Android App, in Kotlin
   <br />
-  <a href="https://github.com/champvikash/">
+  <a href="https://github.com/champvikash/Chat_App/tree/master/app/release/latest">
     <strong>Download app »</strong>
   </a>
   <br />
